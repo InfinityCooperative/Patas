@@ -6,6 +6,11 @@ body{
     position: relative;
     width: 300px;
 }
+.imagem{
+    position: relative;
+    margin: 20px;
+    height: 25px;
+}
 .referencia{
     position: relative;
     height: 45px;
