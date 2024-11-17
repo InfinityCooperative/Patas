@@ -15,25 +15,24 @@ body{
     height: auto;
 }
 .voltar{
-    height: 35px;
-    margin:0% 0% 0% -95%;
+    height: 30px;
+    margin: 0% 0% 0% -85%;
 }
 .bandeira{
     position: absolute;
-    margin: -67px 0% 0% 76%;
+    margin: -67px 0% 0% 70%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover{
     position: absolute;
-    margin: -17px 0% 0% 76%;
+    margin: -17px 0% 0% 70%;
     height: 80px;
     transition: 1s;
 }
 .logo{
-    margin:40px;
     position: relative;
-    width: 300px;
+    width: 345px;
 }
 .rodape{
      background:url(imagens/patas.png) center  center no-repeat fixed;
